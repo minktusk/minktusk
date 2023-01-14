@@ -1,1 +1,1 @@
-- Hi, I’m @minktusk, idk put here.
+- Hi, I’m @minktusk, idk what put here.
