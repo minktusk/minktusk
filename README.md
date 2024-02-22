@@ -1,3 +1,3 @@
-<h1> Hey Guys! 👋 </h1>
+<h1> Hello, World! 👋 </h1>
 
 I'am just a random guy on internet!
